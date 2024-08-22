@@ -1,7 +1,7 @@
 ### Olá! eu sou o Rafael Areias 🖐️
 ## Sobre
 #### Ingressei nos estudos em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, mas sempre estudando além por meio de cursos.
-- Aprendendo C# e Git 📚
+- Aprendendo HTML e CSS 📚
 
 
 <div style="display: inline_block"><br/>
