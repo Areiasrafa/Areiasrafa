@@ -1,7 +1,9 @@
 ### Olá! eu sou o Rafael Areias 🖐️
 ## Sobre
 #### Ingressei nos estudos em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, mas sempre estudando além por meio de cursos.
-- Aprendendo HTML, CSS e Python 📚
+- Aprendendo Go e Flutter
+
+- competências: HTML, CSS, Angular
 
 
 <div style="display: inline_block"><br/>
