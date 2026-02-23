@@ -1,17 +1,18 @@
 ### Olá! eu sou o Rafael Areias 🖐️
 ## Sobre
-#### Ingressei nos estudos em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, mas sempre estudando além por meio de cursos.
-- Aprendendo Go e Flutter
+Graduado em Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia começou em 2023 e, desde então, sigo em constante evolução, buscando dominar novas linguagens e ferramentas para criar soluções eficientes.
+Foco Atual: Aprofundando conhecimentos em Go (Backend) e Flutter (Mobile).
 
-- competências: HTML, CSS, Angular
+Core Tech: Experiência sólida em Angular, HTML5, CSS3 e SCSS.
 
+Dados: Conhecimento em modelagem e consultas com MySQL.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
+<div style="display: inline-block">
 
 
-### Contatos
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-areias/)
+<img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
